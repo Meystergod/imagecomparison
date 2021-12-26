@@ -1,0 +1,4 @@
+﻿  imagescomparison.cpp
+C:\Users\Acer\source\repos\imagescomparison\imagescomparison\imagescomparison.cpp(41,119): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Acer\source\repos\imagescomparison\imagescomparison\imagescomparison.cpp(42,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  imagescomparison.vcxproj -> C:\Users\Acer\source\repos\imagescomparison\x64\Debug\imagescomparison.exe
